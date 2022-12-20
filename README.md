@@ -1,4 +1,5 @@
-# Face_Recognition  Add badges from somewhere like: [shields.io](https://shields.io/)
-
-This is a TensorFlow implementation of the face recognizer described in the paper "FaceNet: A Unified Embedding for Face Recognition and Clustering". The project also uses ideas from the paper "Deep Face Recognition" from the Visual Geometry Group at Oxford.
+# Face_Recognition  
+![AppVeyor](https://img.shields.io/appveyor/build/kabi/Face_Recognition.git?style=plastic)
+# Data collection
+we need to collect data from each person
  
