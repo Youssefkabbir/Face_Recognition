@@ -1,5 +1,5 @@
 # Face_Recognition  
-![AppVeyor](https://img.shields.io/appveyor/build/kabi/Face_Recognition.git?style=plastic)
+![Mozilla Add-on](https://img.shields.io/amo/dw/Face_Recognition?style=plastic)
 # Data collection
 we need to collect data from each person
  
